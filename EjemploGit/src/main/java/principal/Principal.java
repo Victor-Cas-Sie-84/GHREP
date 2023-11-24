@@ -6,7 +6,9 @@ public class Principal {
 		
 		System.out.println("Hola Git");
 		
-		System.out.println("Primer cambio");
+		System.out.println("Primer cambio"); 
+		System.out.println("Segundo cambio");
+		
 
 	}
 
