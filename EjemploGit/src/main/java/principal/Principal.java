@@ -10,6 +10,13 @@ public class Principal {
 		System.out.println("Segundo cambio");
 		System.out.println("Tercer cambio");
 
+		
+		int num= 23;
+		int num2= 15;
+		
+		int suma = num+num2;
+		
+		System.out.println(suma);
 	}
 
 }
