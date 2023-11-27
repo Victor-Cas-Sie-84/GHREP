@@ -13,7 +13,7 @@ public class Principal {
 		System.out.println("Comiit git hub");
 		System.out.println("Segundo commit");
 		
-		int num= 23;
+		int num= 35;
 		int num2= 15;
 		
 		int suma = num+num2;
